@@ -30,8 +30,9 @@ Can you survive the storm and solve the riddle before time runs out?
 
 ## 📸 Screenshots
 
-
-
+![Sean dodging hot rain with the umbrella](screenshot#2.png)
+*Sean using the umbrella to block boiling rain*
+![Gameplay Screenshot](screenshot#1.png)
 ## 🚀 How to Play
 
 1. Use arrow keys to rotate the umbrella  
